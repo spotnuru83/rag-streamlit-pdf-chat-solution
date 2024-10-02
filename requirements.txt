@@ -1,0 +1,8 @@
+chromadb
+pdfplumber 
+langchain
+langchain-core
+langchain-community
+langchain_text_splitters
+unstructured
+unstructured[all-docs]
